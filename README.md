@@ -35,3 +35,7 @@
 *Limitations:* Not high enough resolution to idenitfy such small cells, speed may be  reduced with smaller objects
 
 *Risks:* Could give incorrect information about specific medicine or cells, heavily reliant on it.
+
+
+# Palindrome
+General algorithm for palindrome = get text, hold text, copy texts, seperate text into its characters, reverse these chcarcters, compare new text to old text, if same then output true, if else outut false. 
